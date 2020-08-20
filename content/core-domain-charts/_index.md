@@ -1,7 +1,7 @@
 ---
 title: "Core Domain Charts"
 date: 2020-08-20T01:16:48+01:00
-draft: true
+draft: false
 weight: 3
 pre: "<b>3. </b>"
 ---

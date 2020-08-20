@@ -1,7 +1,7 @@
 ---
 title: "Domain-Driven Design Starter Modelling Process"
 date: 2020-08-20T01:16:48+01:00
-draft: true
+draft: false
 weight: 1
 pre: "<b>1. </b>"
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Context Mapping"
 date: 2020-08-20T01:16:48+01:00
-draft: true
+draft: false
 weight: 2
 pre: "<b>2. </b>"
 ---
